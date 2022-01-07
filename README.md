@@ -1,3 +1,3 @@
 # Git-course
 
-## course note
+## # Course note
